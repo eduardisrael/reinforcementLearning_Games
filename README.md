@@ -3,4 +3,4 @@ Artificial Intelligence course project / @ESPOL
 
 Team: Israel Pasaca, Estefano Palacios, Vielka Villavicencio
 
-![Scheme](./img/poster.png) 
+![Scheme](./img/poster.JPG) 
